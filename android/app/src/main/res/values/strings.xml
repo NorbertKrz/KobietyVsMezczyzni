@@ -1,0 +1,3 @@
+<resources>
+    <string name="default_gateway_merchant_id">your-merchant-id</string> //TODO
+</resources>
